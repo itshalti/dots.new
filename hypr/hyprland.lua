@@ -1,0 +1,13 @@
+require("my-programs")
+require("autostart")
+require("environment-variables")
+require("look-and-feel")
+require("decorations")
+require("animations")
+require("vars")
+require("input")
+require("keybinds")
+require("window-rule")
+require("monitors")
+require("noctalia")
+
